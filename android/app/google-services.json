@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041467189399",
+    "project_id": "otpwithfirebase-4c5f7",
+    "storage_bucket": "otpwithfirebase-4c5f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041467189399:android:9f77ce3403c70c90fe21d2",
+        "android_client_info": {
+          "package_name": "com.example.destinedknot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfZpaRGYrW0Y0Wsoj-JVBEK-7ie1Fbt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
