@@ -22,8 +22,12 @@ List<Map<String, String>> countryList = [];
 String getCombinedValue(Map<String, String> country) {
     return '${country['code']} - ${country['name']}';
   }
+  // hobbies and interest
    int totalSelectCount = 0;
 int selectedCreativeCount =0;
 int selectedSeriesCount =0;
 int selectedPersonalityCount =0;
    int mainSelectCount = 9; 
+
+   //family finance status
+   String selectFinanceSts ='';
