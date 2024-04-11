@@ -308,25 +308,7 @@ class _your_religionState extends State<your_religion>    {
                     ),
               
                        SizedBox(height: 20),
-    //                Container(
-    //                 height: 60,
-    //                 width: inputWidth,
-    //                 child:DropdownButton<String>(
-    //   hint: Text('Select a country'),
-    //   value: selectedCountry,
-    //   onChanged: (String? value) {
-    //     setState(() {
-    //       selectedCountry = value;
-    //     });
-    //   },
-    //   items: country.map((String value) {
-    //     return DropdownMenuItem<String>(
-    //       value: value,
-    //       child: Text(value),
-    //     );
-    //   }).toList(),
-    // )
-    //                )
+
 
 
                     Padding(

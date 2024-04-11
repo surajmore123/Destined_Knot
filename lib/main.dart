@@ -1,4 +1,4 @@
-import 'package:destinedknot/pages/skip/familyDetails.dart';
+import 'package:destinedknot/pages/front_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -21,9 +21,10 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home:
-      familyDetails()
+     //  partnerPrefHome()
+     // familyDetails()
     //  hobbiesInterest()
-     // frontPage()
+      frontPage()
    //    otp()
     //  frontPage()
     );
